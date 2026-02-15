@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="LogisticasPrincipios/LogisticasPrincipios.csproj" />
+  <Project Path="Logistica_antes/Logistica_antes.csproj" />
+  <Project Path="Logistica_despues/Logistica_despues.csproj" />
 </Solution>
